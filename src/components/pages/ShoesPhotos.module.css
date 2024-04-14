@@ -1,0 +1,15 @@
+.shoes{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.shoe{
+  width: 200px;
+  height: 200px;
+}
+
+.shoe img{
+  width: inherit;
+  height: inherit;
+}
